@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lesson 9: Conditional 2</title>
+</head>
+<body>
+<script>
+    // switch-case
+    /*
+     * if...else (condition: boolean)
+     * condition: string, number
+     * switch (condition) {
+     *  case value1:
+     *       // statement(s);
+     *    break;
+     *  case value2:
+     *       // statement(s);
+     *    break;
+     * }
+     */
+    // \t
+    // Magic number (số thần kỳ)
+    // let luaChon = +prompt("Mời chọn thứ tự đồ ăn/đồ uống:\n\n1. Cơm\n2. Phở\n3. Mì");
+    // const RICE = 1, PHO = 2, NOODLES = 3;
+    // switch(luaChon) {
+    //   case RICE:
+    //     console.log('Gọi bếp nấu cơm...');
+    //     break;
+    //   case PHO:
+    //     console.log('Gọi bếp làm phở...');
+    //     break;
+    //   case NOODLES:
+    //     console.log('Gọi bếp làm mì...');
+    //     break;
+    //   default:
+    //     console.log('Chúng tôi không phục vụ món trên. Mời nhập lại món ăn');
+    // }
+    // console.log('test')
+    // switch (new Date('2025-10-19').getDay()) {
+    //   case 0:
+    //   case 6:
+    //     console.log('WEEKEND');
+    //     break;
+    //   case 1:
+    //   case 2:
+    //   case 3:
+    //   case 4:
+    //   case 5:
+    //     console.log('WEEKDAY');
+    //     break;
+    //   default:
+    //     console.log('Wrong day');
+    // }
+
+    let age = 17;
+    // if (age >= 18) {
+    //   console.log('Đủ tuổi lái xe, uống rượu bia');
+    // } else {
+    //   console.log('Bạn chưa đủ tuổi lái xe, uống rượu bia!');
+    // }
+    // condition ? expression_true_execute : expression_false_execute => if...else
+    // let isAdult = age >= 18 ? 'Đủ tuổi lái xe, uống rượu bia' : 'Bạn chưa đủ tuổi lái xe, uống rượu bia!';
+    let isAdult = age >= 18 && 'Đủ tuổi lái xe, uống rượu bia';
+    console.log(isAdult)
+</script>
+</body>
+</html>

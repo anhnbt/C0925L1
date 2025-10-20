@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2175fc0a-b6b8-4baf-852f-d870530eeba8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../C0925L1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../C0925L1/lesson4_git_and_html/08 Come and Get Your Love.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../C0925L1/lesson4_git_and_html/296958_small.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../C0925L1/lesson4_git_and_html/Ash-and-Pikchu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../C0925L1/lesson4_git_and_html/avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../C0925L1/lesson4_git_and_html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../C0925L1/lesson5-form-and-table/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C0925L1/.idea/vongquay.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../C0925L1/.idea/C0925L1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C0925L1/index.html" beforeDir="false" />
+    <list default="true" id="b87d8981-1af3-4b77-93ec-4e31a057e215" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lesson9-conditional-2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,54 +24,44 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../C0925L1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;anhnbt&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "anhnbt"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:anhnbt/demo.git&quot;,
-    &quot;accountId&quot;: &quot;b7ee27c0-cfae-412a-9efb-8f35ec7ce20e&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:anhnbt/C0925L1.git",
+    "accountId": "b7ee27c0-cfae-412a-9efb-8f35ec7ce20e"
   }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
-}</component>
-  <component name="ProjectId" id="33mdPDhxiJkcmzoZuormtlFwq8b" />
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="34KXfsfE0gFcBtzrYAUuLDgxvnC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/wanbi/Downloads/vongquay&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../C0925L1/lesson4_git_and_html" />
-    </key>
-  </component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -85,15 +71,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2175fc0a-b6b8-4baf-852f-d870530eeba8" name="Changes" comment="" />
-      <created>1759926154566</created>
+      <changelist id="b87d8981-1af3-4b77-93ec-4e31a057e215" name="Changes" comment="" />
+      <created>1760963343439</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1759926154566</updated>
-      <workItem from="1759926155951" duration="4371000" />
-      <workItem from="1759977133863" duration="136000" />
-      <workItem from="1759995285561" duration="1211000" />
-      <workItem from="1760098501920" duration="3264000" />
+      <updated>1760963343439</updated>
+      <workItem from="1760963344527" duration="1697000" />
     </task>
     <servers />
   </component>
