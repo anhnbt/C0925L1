@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b87d8981-1af3-4b77-93ec-4e31a057e215" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson9-conditional-2/puzzle-game.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10-loop/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,21 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "anhnbt"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;anhnbt&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:anhnbt/C0925L1.git",
-    "accountId": "b7ee27c0-cfae-412a-9efb-8f35ec7ce20e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:anhnbt/C0925L1.git&quot;,
+    &quot;accountId&quot;: &quot;b7ee27c0-cfae-412a-9efb-8f35ec7ce20e&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="34KXfsfE0gFcBtzrYAUuLDgxvnC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -52,6 +52,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/wanbi/Downloads/C0925L1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -74,7 +75,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1760963343439</updated>
-      <workItem from="1760963344527" duration="3846000" />
+      <workItem from="1760963344527" duration="5106000" />
+      <workItem from="1761566197729" duration="2512000" />
     </task>
     <servers />
   </component>
