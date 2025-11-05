@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b87d8981-1af3-4b77-93ec-4e31a057e215" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson10-loop/index.html" afterDir="false" />
+    <list default="true" id="b87d8981-1af3-4b77-93ec-4e31a057e215" name="Changes" comment="Add lesson 11: loop (2)">
+      <change afterPath="$PROJECT_DIR$/lesson12-array-1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12-array-1/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson13-array-2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson13-array-2/practice-array-1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson13-array-2/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14-function-1/foot-to-metter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14-function-1/is-prime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson14-function-1/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -48,6 +56,10 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.index.html.executor": "Debug",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.foot-to-metter.js.executor": "Debug",
+    "Node.js.is-prime.js.executor": "Debug",
+    "Node.js.practice-array-1.js.executor": "Debug",
+    "Node.js.script.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -76,11 +88,31 @@
       <option name="presentableId" value="Default" />
       <updated>1760963343439</updated>
       <workItem from="1760963344527" duration="5106000" />
-      <workItem from="1761566197729" duration="2512000" />
+      <workItem from="1761566197729" duration="3249000" />
+      <workItem from="1761739878919" duration="3422000" />
+      <workItem from="1761880706264" duration="27000" />
+      <workItem from="1761912047866" duration="4126000" />
+      <workItem from="1762170796064" duration="9000" />
+      <workItem from="1762171344865" duration="3572000" />
+      <workItem from="1762343865574" duration="5447000" />
+      <workItem from="1762351554257" duration="1219000" />
     </task>
+    <task id="LOCAL-00001" summary="Add lesson 11: loop (2)">
+      <option name="closed" value="true" />
+      <created>1761748505878</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761748505878</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add lesson 11: loop (2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add lesson 11: loop (2)" />
   </component>
 </project>
