@@ -1,0 +1,14 @@
+button {
+    background-color: green;
+    border-color: green;
+    color: white;
+}
+table {
+    border-collapse: collapse;
+}
+tr:nth-child(even) {
+    background-color: lightgray;
+}
+td, th {
+    padding: 6px;
+}

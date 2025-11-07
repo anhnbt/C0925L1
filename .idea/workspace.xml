@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b87d8981-1af3-4b77-93ec-4e31a057e215" name="Changes" comment="Add lesson 11: loop (2)">
-      <change afterPath="$PROJECT_DIR$/lesson12-array-1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson12-array-1/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson13-array-2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson13-array-2/practice-array-1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson13-array-2/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson14-function-1/foot-to-metter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson14-function-1/is-prime.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson14-function-1/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b87d8981-1af3-4b77-93ec-4e31a057e215" name="Changes" comment="Add lesson 11: loop (2)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +85,7 @@
       <workItem from="1762170796064" duration="9000" />
       <workItem from="1762171344865" duration="3572000" />
       <workItem from="1762343865574" duration="5447000" />
-      <workItem from="1762351554257" duration="1219000" />
+      <workItem from="1762351554257" duration="1966000" />
     </task>
     <task id="LOCAL-00001" summary="Add lesson 11: loop (2)">
       <option name="closed" value="true" />
