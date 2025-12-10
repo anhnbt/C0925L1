@@ -5,17 +5,100 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b87d8981-1af3-4b77-93ec-4e31a057e215" name="Changes" comment="Add lesson 11: loop (2)">
-      <change afterPath="$PROJECT_DIR$/lesson16-oop-1/date.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson16-oop-1/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson17-oop-2/game-don-gian/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson17-oop-2/game-don-gian/doraemon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson17-oop-2/game-don-gian/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson17-oop-2/game-don-gian/pikachu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson17-oop-2/game-don-gian/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson17-oop-2/game-lai-xe/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson17-oop-2/game-lai-xe/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson17-oop-2/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/OnTapJava/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/OnTapJava/.idea/copilot.data.migration.agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/OnTapJava/.idea/copilot.data.migration.ask.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/OnTapJava/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/OnTapJava/.idea/copilot.data.migration.edit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/OnTapJava/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/OnTapJava/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/OnTapJava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/OnTapJava/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/OnTapJava/OnTapJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/OnTapJava/center/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/OnTapJava/center/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/firstproject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/firstproject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/firstproject/.idea/copilot.data.migration.agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/firstproject/.idea/copilot.data.migration.ask.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/firstproject/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/firstproject/.idea/copilot.data.migration.edit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/firstproject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/firstproject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/firstproject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/firstproject/firstproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/firstproject/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/helloworld/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/helloworld/.idea/copilot.data.migration.agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/helloworld/.idea/copilot.data.migration.edit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/helloworld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/helloworld/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/helloworld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/helloworld/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/helloworld/helloworld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/lesson3_array/ArrayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/lesson3_array/lesson3_array.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/C0925L1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/C0925L1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson10-loop/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson11-loop2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson11-loop2/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson12-array-1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson12-array-1/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson13-array-2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson13-array-2/practice-array-1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson13-array-2/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson14-function-1/foot-to-metter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson14-function-1/is-prime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson14-function-1/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson15-function-2/product-management/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson15-function-2/product-management/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson15-function-2/product-management/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson16-oop-1/date.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson16-oop-1/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson17-oop-2/game-don-gian/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson17-oop-2/game-don-gian/doraemon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson17-oop-2/game-don-gian/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson17-oop-2/game-don-gian/pikachu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson17-oop-2/game-don-gian/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson17-oop-2/game-lai-xe/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson17-oop-2/game-lai-xe/oto.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson17-oop-2/game-lai-xe/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson17-oop-2/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4_git_and_html/08 Come and Get Your Love.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4_git_and_html/296958_small.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4_git_and_html/Ash-and-Pikchu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4_git_and_html/avatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4_git_and_html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson5-form-and-table/form-tim-kiem.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson5-form-and-table/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson5-form-and-table/magnifying-glass-solid-full.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson6-introduction-javascript/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson6-introduction-javascript/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7-variable-data-types-operators/convert-currency.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7-variable-data-types-operators/convert-currency.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7-variable-data-types-operators/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson7-variable-data-types-operators/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson8-conditional/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson8-conditional/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9-conditional-2/img/funny-cat1_part1x1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9-conditional-2/img/funny-cat1_part2x1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9-conditional-2/img/funny-cat1_part3x1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9-conditional-2/img/funny-cat1_part4x1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9-conditional-2/img/funny-cat1_part5x1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9-conditional-2/img/monkey_part1x1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9-conditional-2/img/monkey_part2x1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9-conditional-2/img/monkey_part3x1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9-conditional-2/img/monkey_part4x1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9-conditional-2/img/monkey_part5x1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9-conditional-2/img/panda_swap_part1x1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9-conditional-2/img/panda_swap_part2x1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9-conditional-2/img/panda_swap_part3x1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9-conditional-2/img/panda_swap_part4x1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9-conditional-2/img/panda_swap_part5x1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9-conditional-2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9-conditional-2/puzzle-game.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +114,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/module2/lesson3_array" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -39,12 +122,12 @@
     &quot;assignee&quot;: &quot;anhnbt&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:anhnbt/C0925L1.git&quot;,
-    &quot;accountId&quot;: &quot;b7ee27c0-cfae-412a-9efb-8f35ec7ce20e&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:anhnbt/C0925L1.git",
+    "accountId": "447b851c-f327-4539-b309-9e5eceb85fbf"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -55,6 +138,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayDemo.executor": "Debug",
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.index.html.executor": "Debug",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -66,13 +150,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/wanbi/Downloads/C0925L1/lesson17-oop-2",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/wanbi/Downloads/C0925L1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -81,10 +172,25 @@
       <recent name="$PROJECT_DIR$/lesson17-oop-2" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayDemo" />
+      <module name="C0925L1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayDemo" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-WS-251.26927.40" />
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.27812.49" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.27812.49" />
       </set>
     </attachedChunks>
   </component>
@@ -107,7 +213,9 @@
       <workItem from="1762520257472" duration="852000" />
       <workItem from="1762776464641" duration="3308000" />
       <workItem from="1762947864607" duration="4367000" />
-      <workItem from="1762956983961" duration="1116000" />
+      <workItem from="1762956983961" duration="1759000" />
+      <workItem from="1763170922088" duration="4000" />
+      <workItem from="1765371091634" duration="109000" />
     </task>
     <task id="LOCAL-00001" summary="Add lesson 11: loop (2)">
       <option name="closed" value="true" />

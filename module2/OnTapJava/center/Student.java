@@ -1,0 +1,57 @@
+package center;
+
+public class Student extends Person {
+    private int score;
+    public static String classes = "C0925G1";
+
+    public Student() {
+    }
+
+    public Student(String name) {
+        this.name = name;
+    }
+
+    public Student(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public int getScore() {
+        return score;
+    }
+
+    public void setScore(int score) {
+        this.score = score;
+    }
+
+    @Override
+    public String toString() {
+        sayHello();
+        return "Student{" +
+                "name='" + name + '\'' +
+                ", age=" + age +
+                '}';
+    }
+
+    @Override
+    public void displayInfo() {
+        System.out.println("Student info");
+        super.sayHello();
+    }
+}
